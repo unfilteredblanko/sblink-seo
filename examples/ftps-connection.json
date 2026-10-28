@@ -1,0 +1,8 @@
+{
+  "type": "ftps",
+  "host": "hosting.example.com",
+  "port": 21,
+  "root": "/public_html",
+  "username_env": "SBLINKSEO_USERNAME",
+  "password_env": "SBLINKSEO_PASSWORD"
+}
